@@ -99,7 +99,7 @@ const QUESTIONS_DATA = [
   },
   {
     text: `20 – Par principe, la GLI peut être cumulée avec une caution.`,
-    correctAnswer: true,
+    correctAnswer: false,
     explanation: `<strong>Article 22 de la loi du 6 juillet 1989</strong> :<br>« <strong>Le cautionnement ne peut pas être demandé, à peine de nullité, par un bailleur qui a souscrit une assurance, ou toute autre forme de garantie</strong>, garantissant les obligations locatives du locataire, <strong>sauf en cas de logement loué à un étudiant ou un apprenti.</strong> »<br><br>La GLI étant une assurance souscrite par le bailleur, elle peut en principe être cumulée avec une caution uniquement pour les étudiants et apprentis.`,
   },
 ];
