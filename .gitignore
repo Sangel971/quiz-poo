@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# Config Firebase avec clés réelles — ne jamais committer
+js/config/firebase.js
